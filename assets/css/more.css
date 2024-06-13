@@ -1,0 +1,8 @@
+.header__primary {
+  .header__sign-in:nth-child(2) {
+    margin-left: auto;
+    margin-right: 25px;
+  }
+  
+/*  display: none;*/
+}
